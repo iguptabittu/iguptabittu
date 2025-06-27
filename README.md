@@ -83,7 +83,7 @@ Here are some featured projects I’ve built and maintained:
 ## 📬 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/iguptabittu/)
-- 🌐 [Portfolio (soon)](https://your-portfolio.com)
+- 🌐 [Portfolio](https://sites.google.com/view/iguptabittu/)
 - 📨 iguptabittu@gmail.com
 
 ---
